@@ -1,0 +1,13 @@
+h1{
+    color: brown;
+    background-color: grey;
+    border-radius: 5px;
+    text-align: center;
+}
+#todos{
+    color: black;
+    background-color: chocolate;
+    border-radius: 5px;
+    text-wrap: wrap;
+   
+}
